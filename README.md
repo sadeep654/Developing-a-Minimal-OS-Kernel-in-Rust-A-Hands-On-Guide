@@ -11,9 +11,10 @@ Every so often, a technical rabbit hole changes how you see computers entirely. 
 
 ## 🔹 Why Rust Shows Up in OS Conversations So Often
 
-Rust didn’t become a systems-programming favourite by accident. It eliminates memory mistakes without leaning on garbage collection, and its compiler feels more like a co-pilot than a judge.
+>Rust didn’t become a systems-programming favourite by accident. It eliminates memory mistakes without leaning on garbage collection, and its compiler feels more like a co-pilot than a judge.
 
-Once the toolchain is installed — a quick step through the official Rust site — you’re ready to approach bare-metal programming with confidence.
+>Once the toolchain is installed — a quick step through the official Rust site — you’re ready to approach bare-metal programming with confidence.
+
 
 ## 🔹 Articles & Full Report
 
