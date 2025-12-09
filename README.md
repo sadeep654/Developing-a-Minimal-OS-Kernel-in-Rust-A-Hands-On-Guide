@@ -1,2 +1,3 @@
 # Developing-a-Minimal-OS-Kernel-in-Rust-A-Hands-On-Guide
-A hands-on exploration of OS development in Rust, covering bare-metal setup, kernel booting, VGA text mode, interrupts, paging, memory management, and more. Written as part of my IE2050 Operating Systems assignment.
+Every so often, a technical rabbit hole changes how you see computers entirely. Writing a tiny operating system in Rust is one of those unusual journeys: part engineering, part archaeology, part stubborn curiosity. And nothing beats the moment a blank QEMU window finally responds with a humble “Hello World.”
+
