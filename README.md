@@ -38,8 +38,10 @@ The full academic assignment (PDF) is included in this repository:
 
 ## 🔹 License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this work, provided that proper credit is given.
+This project is released under the **BSD 3-Clause License**.
+You are free to use, modify, and distribute this work, provided that proper credit is given to the original author.
+
+For full licensing details, see the **LICENSE** file in this repository.
 
 ---
 
