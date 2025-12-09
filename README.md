@@ -7,6 +7,5 @@ You can read a detailed, Medium-style article about this project here:
 **[Building a Minimal Operating System in Rust — <a href="https://sadeep654.medium.com/building-a-tiny-operating-system-in-rust-a-beginners-journey-53e979fb08bf" target="_blank">Medium</a>]**
 
 The full academic assignment (PDF) is included in this repository:  
-**[IT19082066 — Full Report (PDF)]**
-
+**[IT19082066 — <a href="https://github.com/sadeep654/Developing-a-Minimal-OS-Kernel-in-Rust-A-Hands-On-Guide/blob/main/IT19082066.pdf" target="_blank">Full Report (PDF)</a>]**
 
